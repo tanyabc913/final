@@ -1,7 +1,8 @@
 # Buyflix Starter Project for KIEI-924
 
 ## Getting Started
-## my project can be found here: https://final-df0f2.firebaseio.com/ 
+## https://github.com/tanyabc913/final 
+## my firebase project can be found here: https://final-df0f2.firebaseio.com/ 
 
 Upon download or clone:
 
